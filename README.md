@@ -2,6 +2,12 @@
 A collection of scripts for archlinux.
 
 ## Scripts
+- [x] Done
+
+- [ ] Not done
+
+- [-] Not tested
+
 - [x] **Install.sh** | *archlinux installation script.*
 
 - [x] **Afterinstall.sh** | *archlinux recommended applications.*
