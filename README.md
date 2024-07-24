@@ -1,4 +1,4 @@
-# ArchUtils
+# ArchScripts
 A collection of scripts for archlinux.
 
 ## Scripts
